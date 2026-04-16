@@ -1,5 +1,5 @@
 # LOL12y
-# ¡Hola! Soy [dIESTEFANO] 👋
+# ¡Hola! Soy [DIESTEFANO] 👋
 
 Tengo 16 años y me gusta mucho la tecnología. Empecé en esto de la programación por curiosidad y ahora me la paso creando proyectos para aprender cómo funcionan las cosas por dentro.
 
