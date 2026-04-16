@@ -8,11 +8,6 @@ Tengo 16 años y me gusta mucho la tecnología. Empecé en esto de la programaci
 - 🛠️ Estudiando en **[San jose obrero"]**.
 - 📚 Aprendiendo sobre **[Computacion
 - ]**.
-
-### 🛠️ Mis herramientas
-![Lenguajes](https://skillicons.dev) 
-*(Nota: Cambia los nombres después del `=` por los que tú uses)*
-
 ### 📈 Un poco de mi actividad
 Aquí es donde subo mis prácticas, los retos que voy completando y alguno que otro código que sale de mis momentos de inspiración (o frustración, jaja).
 
